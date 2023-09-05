@@ -1,6 +1,10 @@
 # GrassGPUInstances
 参考https://zhuanlan.zhihu.com/p/397620652
-添加了草地方向性的生长过渡效果,支持根据顶点世界坐标随机偏移颜色,分层颜色
+
+添加了草地方向性的生长过渡效果
+支持根据顶点世界坐标随机偏移颜色
+分层颜色
+
 ![Grass1.jpg](..%2FPictures%2FScreenShot%2FGrass1.jpg)
 ## 1.使用方法
     使用时在管线的Renderer中添加一个RenderFeature(Grass Render Feature)
